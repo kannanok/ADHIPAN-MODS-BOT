@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHIPAN-MODS/LiyaMol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHIPAN-MODS/ADHIPAN-MODS-BOT)
      </div>
 <br>
 <br >
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/JulieMwol
+$ git clone https://github.com/ADHIPAN-MODS/ADHIPAN-MODS-BOT
 $ cd JulieMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
+$ git clone https://github.com/ADHIPAN-MODS/ADHIPAN-MODS-BOT
 $ cd JulieMwol
 $ chmod +x *
 $ npm i
