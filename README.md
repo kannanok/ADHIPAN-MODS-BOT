@@ -62,7 +62,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/ADHIPAN-MODS/ADHIPAN-MODS-BOT
-$ cd JulieMwol
+$ cd ADHIPAN-MODS-BOT
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -72,7 +72,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/ADHIPAN-MODS/ADHIPAN-MODS-BOT
-$ cd JulieMwol
+$ cd ADHIPAN-MODS-BOT
 $ chmod +x *
 $ npm i
 $ node qr.js
