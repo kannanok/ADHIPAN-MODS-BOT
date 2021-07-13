@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="ADHIPAN-MODS-BOT" src="https://img.shields.io/badge/LiyaMol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ADHIPAN-MODS-BOT" src="https://img.shields.io/badge/ADHIPAN-MODS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/ADHIPAN-MODS"><img title="Author" src="https://img.shields.io/badge/Author-ADHIPAN/LiyaMol?color=red&style=for-the-badge&logo=whatsapp"></a>
